@@ -1,4 +1,4 @@
-	//Date Picker
+	//Date Picker Tükçe Gün Karşılığı
 	
 	if($('.datepicker').length){
 		$( '.datepicker' ).datepicker();
